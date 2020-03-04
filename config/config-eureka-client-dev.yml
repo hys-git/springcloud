@@ -3,3 +3,9 @@ data:
   user:
     username: eureka-client-user
     password: 99999
+
+#mybatis配置
+mybatis:
+  #  typeAliasesPackage: com.example.mybaitsxml.dao.entity
+  mapperLocations: classpath:mapper/*.xml
+  #configLocation: classpath:/mybatis-config.xml
