@@ -13,7 +13,7 @@ mybatis:
   mapperLocations: classpath:mapper/*.xml
   #configLocation: classpath:/mybatis-config.xml
 data:
-  env: aaaaxiba
+  env: nishizhu
   user:
     username: eureka-client-user
     password: 99999
