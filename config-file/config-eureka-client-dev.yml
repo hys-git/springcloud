@@ -6,7 +6,7 @@ spring:
     # 数据库访问账户
     username: root
     # 数据库访问密码
-    password: 69696
+    password: 123456
 #mybatis配置
 mybatis:
   #  typeAliasesPackage: com.example.mybaitsxml.dao.entity
