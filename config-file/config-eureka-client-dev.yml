@@ -6,14 +6,14 @@ spring:
     # 数据库访问账户
     username: root
     # 数据库访问密码
-    password: 15074807998
+    password: 69696
 #mybatis配置
 mybatis:
   #  typeAliasesPackage: com.example.mybaitsxml.dao.entity
   mapperLocations: classpath:mapper/*.xml
   #configLocation: classpath:/mybatis-config.xml
 data:
-  env: natapp
+  env: natappa
   user:
     username: eureka-client-user
     password: 99999
